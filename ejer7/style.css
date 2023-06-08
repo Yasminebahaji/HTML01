@@ -8,6 +8,7 @@ table {
     border: 5px solid black;
     border-top-left-radius: 30px;
     border-top-right-radius:30px ;
+    background-color:bisque;
 }
 
 td {
@@ -24,7 +25,11 @@ th {
     border-bottom: 0px ;
     border-left: 0px ;
 }
-h2{
+span{
     text-align: center;
+    background-color: aqua;
     
+}
+td.a{
+    background-color: aqua;
 }
